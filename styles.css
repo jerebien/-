@@ -1,6 +1,6 @@
 body {
-  tect-align: center;
+  text-align: center;
 }
-#secret:active {
-  
+#secret:hover {
+  color: #903
 }
